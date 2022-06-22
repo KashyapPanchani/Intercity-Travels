@@ -1,0 +1,16 @@
+1 12 5 129734 1 bhuj morbi itproject206 Wed Jun 14 00:09:03 2021
+1 15 4 130094 1 bhuj rajkot itproject206 Wed Jun 13 00:10:58 2021
+1 11 3 141637 1 morbi bhuj itproject206 Wed Jun 15 00:11:53 2021
+1 17 3 155941 2 junagadh rajkot itproject206 Thu Jun 17 00:40:42 2021
+1 9 3 22324822 3 junagadh rajkot itproject206 Thu Jun 17 14:59:22 2021
+1 17 3 22325789 1 junagadh rajkot itproject206 Thu Jun 17 15:04:14 2021
+1 15 3 22342414 1 junagadh rajkot itproject206 Thu Jun 17 16:29:19 2021
+0 17 3 22325789 1 junagadh rajkot itproject206 Thu Jun 17 15:04:14 2021
+0 15 3 22342414 1 junagadh rajkot itproject206 Thu Jun 17 16:29:19 2021
+1 18 3 22349496 12 junagadh rajkot itproject206 Thu Jun 17 19:52:35 2021
+1 12 3 22321435 15 rajkot bhuj itproject206 Thu Jun 17 19:53:17 2021
+1 9 3 22349858 1 rajkot bhuj itproject206 Thu Jun 17 19:54:19 2021
+1 9 3 22351635 2 gandhidham bhuj itproject206 Thu Jun 17 20:03:52 2021
+1 13 3 22352899 4 gandhidham bhuj itproject206 Thu Jun 17 20:10:28 2021
+1 1 26 22338586 1 rajkot ahmedabad itproject Mon Jun 21 23:20:26 2021
+

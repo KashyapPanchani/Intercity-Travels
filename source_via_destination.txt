@@ -1,0 +1,40 @@
+kk-1243 rajkot gondal jetpur virpur junagadh
+jk-1321 junagadh gondal rajkot
+bs-4322 junagadh gondal rajkot morbi gandhidham bhuj
+bc-3121 bhuj anjar adipur gondal rajkot
+ll-3212 bhuj bhachau morbi rajkot junagadh
+ha-7678 rajkot surendranagar ahmedabad
+op-2312 ahmedabad surendranagar rajkot
+wq-2131 adilabad hyderabad
+qe-4576 adipur ahmedabad
+xv-2124 agra bharatpur jaipur ajmer
+oo-5465 agra hathras aligarh
+iy-3454 agra mathura gurugram delhi meerut haridwar dehradun
+er-7495 agra mathura palwal faridabad delhi
+fg-5478 haridwar muzaffarnagar meerut vrindavan mathura agra
+gk-6430 kanpur etawah fatehabad agra
+kp-9684 lucknow kanpur etawah fatehabad agra
+kk-1439 baroda bharuch anklesvar surat
+rs-3323 ahmedabad nadiad anand baroda
+er-5465 surat bharuch baroda
+fd-6577 surat anklesvar bharuch
+xw-3231 surat ahemdabad surendranagar rajkot
+re-5476 surat rajkot gandhidham adipur bhachau anjar bhuj
+ee-5765 surat ahmedabad gandhinagar
+er-5745 surat navsari
+yy-5465 rajkot junagadh
+er-4821 rajkot surendranagar ahmedabad surat
+gh-4324 rajkot gondal junagadh bhavnagar
+fd-5743 rajkot morbi
+re-6534 rajkot jamnagar
+rf-4534 rajkot jamnagar dwarka
+oe-5453 rajkot gondal junagadh gir-somnath
+gf-5439 rajkot gondal junagadh keshod
+re-6575 rajkot botad anand baroda
+of-8786 rajkot junagadh porbandar
+to-7538 bhuj bhachau morbi rajkot
+eo-7458 bhuj anjar adipur bhachau
+ew-2312 ahmedabad surendranagar
+nd-5421 ahmedabad anand baroda bharuch surat
+da-3483 ahmedabad surendranagar rajkot
+ra-3083 ahmedabad rajkot gondal junagadh
